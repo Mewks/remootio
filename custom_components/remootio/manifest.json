@@ -11,4 +11,5 @@
   "dependencies": [],
   "codeowners": ["@Mewks"],
   "iot_class": "local_push"
+  "logo": "custom_components/remootio/remootio_icon.png"
 }
